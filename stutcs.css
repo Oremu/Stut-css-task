@@ -1,0 +1,119 @@
+body {
+    text-align: center;
+    font-family: "Merriweather", serif;
+    margin: auto;
+    padding: 0;
+    display: block;
+}
+
+#Section1 {
+    background-color: #66bfbf;
+    position: relative;
+    padding-top: 40px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-family: "Sacramento", cursive;
+    font-size: 5rem;
+    color: #fff;
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.about-section {
+    padding: 100px 0;
+    display: flex;
+    line-height: 2rem;
+    justify-content: space-around;
+}
+
+.aboutme {
+    color: #fff;
+} 
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+#Section2 {
+    padding: 30px 0;
+    line-height: 2rem;
+}
+
+.programming-skill {
+    padding: 20px 0;
+}
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.8rem;
+    color: #66bfbf;
+}
+
+h3 {
+    font-family: "Montserrat", sans-serif;
+    color: #11999e;
+}
+
+#Section3 {
+    padding: 50px 0;
+    line-height: 2;
+    background-color: #acdbdb;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+#Section4 {
+    padding: 40px 0;
+    line-height: 2;
+}
+
+#form-section {
+    padding: 30px;
+}
+
+.gender-hobbies {
+    display: flex;
+    justify-content: space-around;
+}
+
+#Submit_button {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    background-color: #11999e;
+    color: white;
+}
+
+#Section5 {
+    padding: 20px 0;
+    line-height: 2;
+    background-color: #11999e;
+}
